@@ -82,7 +82,6 @@ Degranulation offers a unique ability of a messy attack. Whereas T cells are tar
 
 Eosinophils should get the same amount of funding as neutrophils because there is reason to believe that they are just as promising. \[23\] Eosinophils live longer (up to seven days versus 24 hours in neutrophils) and their granules are less heterogeneous than those of neutrophils. MBP comprises 50% of their granule content which represents a single alterable target that could be replaced with a more cytotoxic protein. \[3, 4\] For example, the genes for granule proteins could be replaced with another more toxic protein like perforin, granzyme and/or pseudomonas exotoxin. CRISPR could be used to edit the genes. Granularity allows for production of an exotoxin because it would be safely segregated from the rest of the cell.
 
-
 Figure 1. A: Eosinophils attacking a helminth. B: Neutrophil engulfing small spherical bacteria. C: Small pink T-cells kill cancer cell. Can this be accomplished with other cell lines?
 
 **Discussion**
